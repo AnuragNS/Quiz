@@ -1,0 +1,113 @@
+body {
+  font-family: sans-serif;
+  align-content: center;
+  justify-content: center;
+  margin: 0 auto;
+  padding: 25px;
+  max-width: 400px;
+  min-width: 400px;
+  background-color: #dfe6e9;
+  text-align: center;
+}
+
+.heading {
+  text-align: center;
+  font-size: 2em;
+  font-family: "Courier New", Courier, monospace;
+  color: #2d3436;
+  margin: 20px 0 30px;
+}
+
+.card {
+  border-radius: 25px;
+  position: relative;
+  padding: 25px 15px;
+  background-color: #81ecec;
+  margin: 50px 0;
+  height: 200px;
+  box-shadow: 0 2px 5px #ccc;
+  text-align: left;
+}
+
+.bottom {
+  margin-top: 120px;
+}
+
+.info {
+  margin: 20px 0;
+  color: #1a7e76;
+}
+.point {
+  font-size: 1em;
+  font-family: "Courier New", Courier, monospace;
+  border: 1px solid black;
+  border-radius: 3px;
+  box-shadow: 1px 1px;
+  font-weight: 2px;
+}
+/* .qdiv {
+  height: 150px;
+  margin-top: 10px;
+  border: 1px solid black;
+  box-shadow: 1px 1px;
+  border-radius: 6px;
+} */
+/* .qlabel {
+  height: 150px;
+  margin-top: 10px;
+  
+  border: 1px solid black;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+} */
+.queans {
+  height: 170px;
+  margin-top: 10px;
+
+  border: 1px solid black;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+}
+.qlabel {
+  height: 30px;
+  border: 1px solid black;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
+.ansdiv {
+  height: 110px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 5px;
+  margin-right: 5px;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+  display: flex;
+}
+.ans1 {
+  height: 20px;
+  width: 150px;
+  display: flex;
+  padding-top: 10px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+}
+.ans2 {
+  height: 20px;
+  width: 150px;
+
+  padding-top: 10px;
+  border: 1px solid black;
+  margin-top: 10px;
+  margin-left: 5px;
+  border-radius: 6px;
+  box-shadow: 1px 1px;
+}
+.ans3 {
+}
